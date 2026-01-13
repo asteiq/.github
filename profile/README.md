@@ -29,7 +29,6 @@ We're building [brief description of what Asteiq does].
 
 - **Backend Team** - @asteiq/backend
 - **Frontend Team** - @asteiq/frontend
-- **Mobile Team** - @asteiq/mobile
 - **DevOps Team** - @asteiq/devops
 
 ## Resources
